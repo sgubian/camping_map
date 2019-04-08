@@ -1,1 +1,21 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#104c13",
+        "marker-size": "medium",
+        "marker-symbol": "campsite",
+        "tente": "Akto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.027521729469298,
+          46.96334105306268
+        ]
+      }
+    }
+  ]
+}
